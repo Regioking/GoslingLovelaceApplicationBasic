@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GoslingLovelace</string>
+    <string name="gosling_title">詹姆斯·高斯林</string>
+    <string name="gosling">  詹姆斯·高斯林（生于1955年5月19日）是一位加拿大计算机科学家，
+        最著名的是Java编程语言背后的创始人和首席设计师。
+        高斯林最初被称为GoslingEmacs的作者，并且发明了WindowingSystemNews，由于Sun没有给它一个开源许可证，
+        它输给了X Window。人们普遍认为他在1994发明了Java编程语言。他创建了Java的原始设计，并实现了语言的
+        原始编译器和虚拟机。高斯林将这种方法的起源追溯到他早期的研究生时代，那时他为实验室的DEC VAX计算机
+        创建了一个P代码虚拟机，这样他的教授就可以运行用UCSD Pascal编写的程序。在Sun的JAVA工作中，他发现，
+        对于广泛分布的程序来说，架构中性的执行可以通过实现类似的理念来实现：总是为同一虚拟机编程。
+        </string>
+    <string name="ada">  奥古斯塔·阿达·金，洛夫蕾丝伯爵夫人（原姓拜伦，1815年12月10日至1852年11月27日）
+        是英国数学家和作家，因在查尔斯·巴贝奇（CharlesBabbage）提出的通用机械计算机分析引擎
+        （AnalyticEngine）上的工作而闻名。她是第一个认识到这台机器的应用超出了纯计算，并发表了第一个打算
+        由这种机器执行的算法。因此，她有时被认为是第一个认识到“计算机器”和第一个计算机程序员的全部潜力
+        的人。</string>
+    <string name="ada_title">艾达洛维斯</string>>
+</resources>
